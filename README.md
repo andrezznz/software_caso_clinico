@@ -1,8 +1,6 @@
 # 🏥 Sistema de Gestión Clínica – API REST (Spring Boot)
 
-Este proyecto consiste en el desarrollo de un sistema básico de gestión clínica implementado como una API REST utilizando Spring Boot. El sistema permite administrar usuarios de diferentes tipos (Administradores, Doctores y Pacientes) y gestionar citas médicas entre doctores y pacientes.
-
-El proyecto fue desarrollado aplicando principios de arquitectura limpia, diseño orientado a objetos e implementación de entidades heredadas utilizando la estrategia **Single Table (STI)** con el atributo `dtype` para distinguir los tipos de usuario.
+Este proyecto consiste en el desarrollo de un sistema básico de gestión clínica implementado como una API REST utilizando Spring Boot (Monolito Simple). El sistema permite administrar usuarios de diferentes tipos (Administradores, Doctores y Pacientes) y gestionar citas médicas entre doctores y pacientes.
 
 ---
 
