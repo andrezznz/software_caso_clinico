@@ -1,0 +1,6 @@
+package com.software.gestion.citas.clinica.citas_gestion.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import com.software.gestion.citas.clinica.citas_gestion.model.Paciente;
+
+public interface PacienteRepository extends JpaRepository<Paciente, Integer> { }
